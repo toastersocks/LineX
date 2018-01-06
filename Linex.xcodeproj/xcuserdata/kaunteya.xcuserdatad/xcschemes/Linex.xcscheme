@@ -15,8 +15,8 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "E35942161F55564C009EFA35"
-               BuildableName = "Linex.app"
-               BlueprintName = "Linex"
+               BuildableName = "LineX.app"
+               BlueprintName = "LineX"
                ReferencedContainer = "container:Linex.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -44,8 +44,8 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "E35942161F55564C009EFA35"
-            BuildableName = "Linex.app"
-            BlueprintName = "Linex"
+            BuildableName = "LineX.app"
+            BlueprintName = "LineX"
             ReferencedContainer = "container:Linex.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
@@ -68,8 +68,8 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "E35942161F55564C009EFA35"
-            BuildableName = "Linex.app"
-            BlueprintName = "Linex"
+            BuildableName = "LineX.app"
+            BlueprintName = "LineX"
             ReferencedContainer = "container:Linex.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
@@ -87,8 +87,8 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "E35942161F55564C009EFA35"
-            BuildableName = "Linex.app"
-            BlueprintName = "Linex"
+            BuildableName = "LineX.app"
+            BlueprintName = "LineX"
             ReferencedContainer = "container:Linex.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>

@@ -90,7 +90,7 @@
 		E330C82F1F796DF000ECC222 /* LICENSE */ = {isa = PBXFileReference; lastKnownFileType = text; path = LICENSE; sourceTree = SOURCE_ROOT; };
 		E356FD7C1F66D266004558F1 /* XcodeKitExt.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = XcodeKitExt.swift; sourceTree = "<group>"; };
 		E356FD811F66F55C004558F1 /* TestPad.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TestPad.swift; sourceTree = "<group>"; };
-		E35942171F55564C009EFA35 /* Linex.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Linex.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		E35942171F55564C009EFA35 /* LineX.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LineX.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E359421A1F55564C009EFA35 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		E359421C1F55564C009EFA35 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		E359421E1F55564C009EFA35 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -182,7 +182,7 @@
 		E35942181F55564C009EFA35 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				E35942171F55564C009EFA35 /* Linex.app */,
+				E35942171F55564C009EFA35 /* LineX.app */,
 				E35942281F55564D009EFA35 /* LinexTests.xctest */,
 				E359423B1F55565E009EFA35 /* Line.appex */,
 				E39E226D1F59876A00354A5F /* Selection.appex */,
@@ -295,9 +295,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		E35942161F55564C009EFA35 /* Linex */ = {
+		E35942161F55564C009EFA35 /* LineX */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = E35942311F55564D009EFA35 /* Build configuration list for PBXNativeTarget "Linex" */;
+			buildConfigurationList = E35942311F55564D009EFA35 /* Build configuration list for PBXNativeTarget "LineX" */;
 			buildPhases = (
 				E35942131F55564C009EFA35 /* Sources */,
 				E35942141F55564C009EFA35 /* Frameworks */,
@@ -311,9 +311,9 @@
 				E39E22781F59876A00354A5F /* PBXTargetDependency */,
 				E3F5439E1F5A84FC008F426E /* PBXTargetDependency */,
 			);
-			name = Linex;
+			name = LineX;
 			productName = Linex;
-			productReference = E35942171F55564C009EFA35 /* Linex.app */;
+			productReference = E35942171F55564C009EFA35 /* LineX.app */;
 			productType = "com.apple.product-type.application";
 		};
 		E35942271F55564C009EFA35 /* LinexTests */ = {
@@ -441,7 +441,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				E35942161F55564C009EFA35 /* Linex */,
+				E35942161F55564C009EFA35 /* LineX */,
 				E35942271F55564C009EFA35 /* LinexTests */,
 				E359423A1F55565E009EFA35 /* Line */,
 				E39E226C1F59876A00354A5F /* Selection */,
@@ -550,7 +550,7 @@
 /* Begin PBXTargetDependency section */
 		E359422A1F55564D009EFA35 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = E35942161F55564C009EFA35 /* Linex */;
+			target = E35942161F55564C009EFA35 /* LineX */;
 			targetProxy = E35942291F55564D009EFA35 /* PBXContainerItemProxy */;
 		};
 		E35942481F55565E009EFA35 /* PBXTargetDependency */ = {
@@ -870,7 +870,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		E35942311F55564D009EFA35 /* Build configuration list for PBXNativeTarget "Linex" */ = {
+		E35942311F55564D009EFA35 /* Build configuration list for PBXNativeTarget "LineX" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				E35942321F55564D009EFA35 /* Debug */,
